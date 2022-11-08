@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421519092913",
+    "project_id": "push-542e6",
+    "storage_bucket": "push-542e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421519092913:android:874524d45dc6f8b109c690",
+        "android_client_info": {
+          "package_name": "com.example.captaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421519092913-uhk0gpk2iqgn7uisqea3i3v60nujmm9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6GFpNV_3KK9c-kpGMLm8LoQwU1XnimS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421519092913-uhk0gpk2iqgn7uisqea3i3v60nujmm9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
